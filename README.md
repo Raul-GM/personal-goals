@@ -15,9 +15,26 @@ Este repo está basado en el proyecto personal de [cristinafsanz](https://github
 - Instalar RetroPi en la Raspberry: Para obligarme a darle un poco de caña a la Rasp, me instalé el RetroPi. Es un poco chorra, pero así no voy perdiendo lo poco (poquísimo) que he cogido
 - Iniciación en SVG: He realizado varios cursos tanto en Udemy como en Domestika. Además me compré (y me estoy leyendo) el libro de Sarah Drasner de [SVG Animations](http://shop.oreilly.com/product/0636920045335.do)
 - Inicación a UX: Gracias a una compañera a la que he acogido como mi mentora, me va recomendando libros, artículos, aplicaciones sobre experiencia de usuario. De momento me he leído este 2017 el ["Don't make me think"](https://www.amazon.es/Dont-Think-Revisited-Voices-Matter/dp/0321965515/ref=sr_1_1?ie=UTF8&qid=1514295977&sr=8-1&keywords=dont+make+me+think) de Steve Krug
+
 ## Objetivos de 2017
 - [x] Aprender Angular 2
+- [x] Acabar de refactorizar mi web
+- [x] Iniciarme en PostCSS
 - [x] Instalar RetroPi en la Raspberry y meterle algunos juegos
+
+## Charlas para ver (No en este orden)
+- [ ] [Complex Responsive Animations with Sarah Drasner ](https://www.youtube.com/watch?v=BTyKwxf60s4&t=4s)
+- [ ] [SVG can do that?! (Sarah Drasner) ](https://www.youtube.com/watch?v=ADXX4fmWHbo)
+- [ ] [Sarah Drasner: Intricate SVG Animations]https://www.youtube.com/watch?v=wc8ovZZ78SY()
+- [ ] [Animating the Virtual DOM - Sarah Drasner](https://www.youtube.com/watch?v=W5AdUcJDHo0)
+- [ ] [Sarah Drasner - Animating in React
+24](https://www.youtube.com/watch?v=QlmaI7x7SYo)
+- [ ] [Sarah Drasner - Animating Vue](https://www.youtube.com/watch?v=gJDyhmL9O_E)
+- [ ] [Guest Tutorial #2: Web Animations and Mo.js with Sarah Drasner](https://www.youtube.com/watch?v=yRxWa8lXasI)
+- [ ] [Introduction to Vue.js — Sarah Drasner](https://www.youtube.com/watch?v=TGW-z1bIWyg)
+- [ ] [Verou - JS UX: Writing code for humans](https://www.youtube.com/watch?v=gweY3L0YA1Y&t=53s)
+- [ ] [Lea Verou: The Missing Slice](https://www.youtube.com/watch?v=eVnUDTtOLE0)
+- [ ] [Lea Verou, "More CSS Secrets: Another 10 things you may not know about CSS"](https://www.youtube.com/watch?v=3ikye7Qc7Ak)
 
 ## Música
 #### Conciertos
