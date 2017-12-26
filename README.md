@@ -7,7 +7,7 @@ Este repo está basado en el proyecto personal de [cristinafsanz](https://github
 - [ ] Aprender VueJS
 - [ ] Afianzar conocimientos de React y Redux
 - [ ] Acabar la web de conciertos
-- [ ] Pasar mi web a Github Pages
+- [ ] Pasar mi web a Github Pages (Echar un ojo a la documentación de Cristina sobre Github Pages)
 - [ ] Aprender y practicar más con SVG. Darle caña a mi Codepen
 
 ## Objetivos cumplidos de 2017
@@ -20,17 +20,27 @@ Este repo está basado en el proyecto personal de [cristinafsanz](https://github
 - [x] Instalar RetroPi en la Raspberry y meterle algunos juegos
 
 ## Música
+#### Conciertos
+[ ] - Ensiferum + Ex Deo - 23 Abril 2018 - Sala Mon
+[ ] - Rhapsody + Beast in Black + Scarlet Aura - 20 Marzo 2018 - La Riviera
+[ ] - Arch Enemy + Jinjer + Tribulation + Wintersun - 20 Enero 2018 - La Riviera
+[x] - Helloween - Pumpkins United - 9 Diciembre 2017 - Wizink Center
+[x] - Epica + VUUR + Myrath - 20 Noviembre 2017 - La Riviera
+[x] - Satyricon + Suicidal Angels + Fight the Fight- 4 Octubre 2017 - Sala But
+[x] - Stravaganzza - 23 Septiembre 2017 - La Riviera
+[x] - Jinjer - 4 Mayo 2017 - Sala Nazca
+[ ] - Dark Moor - 20 Aniversario - 4 Marzo 2017 - Sala Heineken
 
 ## Libros
-- (Leyendo...) [Buenos Presagios]() - Terry Pratchet y Neil Gaiman
+- (Leyendo...) [Buenos Presagios]() - Terry Pratchett y Neil Gaiman
 - (Leyendo...) [SVG Animations](http://shop.oreilly.com/product/0636920045335.do) - Sarah Drasner
-- (Leyendo...) [CSS Secrets] - Lea Verou
+- (Leyendo...) [CSS Secrets](http://shop.oreilly.com/product/0636920031123.do) - Lea Verou
 - ["Don't make me think"](https://www.amazon.es/Dont-Think-Revisited-Voices-Matter/dp/0321965515/ref=sr_1_1?ie=UTF8&qid=1514295977&sr=8-1&keywords=dont+make+me+think)  - Steve Krug
 - [La Torre Oscura I - El pistolero](https://www.amazon.es/pistolero-BEST-SELLER-Stephen-King/dp/8466338500/ref=sr_1_2?ie=UTF8&qid=1514297496&sr=8-2&keywords=libros+la+torre+oscura) - Stephen King
 - [La Torre Oscura II - La Llegada de los Tres](https://www.amazon.es/llegada-tres-Torre-Oscura-SELLER/dp/8466340580/ref=sr_1_1?ie=UTF8&qid=1514297496&sr=8-1&keywords=libros+la+torre+oscura) - Stephen King
 - [Harry Potter and the Philosopher's Stone. Ravenclaw XX Anniversary Edition](https://harrypotter.bloomsbury.com/uk/harry-potter-and-the-philosophers-stone-ravenclaw-9781408883785/?ewid=1614) - J.K. Rowling
 #### Backlog
-- El Segador - Terry Pratchet
+- El Segador - Terry Pratchett
 - Tres Enanos y Pico - Ángel Sanchidrian
 - Patria - Fernando Aramburu
 - Feminismo para principiantes - Nuria Varela
