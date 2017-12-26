@@ -21,15 +21,15 @@ Este repo está basado en el proyecto personal de [cristinafsanz](https://github
 
 ## Música
 #### Conciertos
-[ ] - Ensiferum + Ex Deo - 23 Abril 2018 - Sala Mon
-[ ] - Rhapsody + Beast in Black + Scarlet Aura - 20 Marzo 2018 - La Riviera
-[ ] - Arch Enemy + Jinjer + Tribulation + Wintersun - 20 Enero 2018 - La Riviera
-[x] - Helloween - Pumpkins United - 9 Diciembre 2017 - Wizink Center
-[x] - Epica + VUUR + Myrath - 20 Noviembre 2017 - La Riviera
-[x] - Satyricon + Suicidal Angels + Fight the Fight- 4 Octubre 2017 - Sala But
-[x] - Stravaganzza - 23 Septiembre 2017 - La Riviera
-[x] - Jinjer - 4 Mayo 2017 - Sala Nazca
-[ ] - Dark Moor - 20 Aniversario - 4 Marzo 2017 - Sala Heineken
+- [ ] Ensiferum + Ex Deo - 23 Abril 2018 - Sala Mon
+- [ ] Rhapsody + Beast in Black + Scarlet Aura - 20 Marzo 2018 - La Riviera
+- [ ] Arch Enemy + Jinjer + Tribulation + Wintersun - 20 Enero 2018 - La Riviera
+- [x] Helloween - Pumpkins United - 9 Diciembre 2017 - Wizink Center
+- [x] Epica + VUUR + Myrath - 20 Noviembre 2017 - La Riviera
+- [x] Satyricon + Suicidal Angels + Fight the Fight- 4 Octubre 2017 - Sala But
+- [x] Stravaganzza - 23 Septiembre 2017 - La Riviera
+- [x] Jinjer - 4 Mayo 2017 - Sala Nazca
+- [ ] Dark Moor - 20 Aniversario - 4 Marzo 2017 - Sala Heineken
 
 ## Libros
 - (Leyendo...) [Buenos Presagios]() - Terry Pratchett y Neil Gaiman
