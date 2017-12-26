@@ -25,7 +25,7 @@ Este repo está basado en el proyecto personal de [cristinafsanz](https://github
 ## Charlas para ver (No en este orden)
 - [ ] [Complex Responsive Animations with Sarah Drasner ](https://www.youtube.com/watch?v=BTyKwxf60s4&t=4s)
 - [ ] [SVG can do that?! (Sarah Drasner) ](https://www.youtube.com/watch?v=ADXX4fmWHbo)
-- [ ] [Sarah Drasner: Intricate SVG Animations]https://www.youtube.com/watch?v=wc8ovZZ78SY()
+- [ ] [Sarah Drasner: Intricate SVG Animations](https://www.youtube.com/watch?v=wc8ovZZ78SY)
 - [ ] [Animating the Virtual DOM - Sarah Drasner](https://www.youtube.com/watch?v=W5AdUcJDHo0)
 - [ ] [Sarah Drasner - Animating in React
 24](https://www.youtube.com/watch?v=QlmaI7x7SYo)
