@@ -10,9 +10,17 @@ Este repo está basado en el proyecto personal de [cristinafsanz](https://github
 - [ ] Pasar mi web a Github Pages (Echar un ojo a la documentación de Cristina sobre Github Pages)
 - [ ] Aprender y practicar más con SVG. Darle caña a mi Codepen
 
+## Tareas para Enero 2018
+- [ ] Acabar el proyecto final del curso de SVG
+- [ ] Preparar ideas para RebeldesTIC
+- [ ] Acabar el libro de Sarah Drasner de SVG Animations
+- [ ] Acabar el libro de Buenos Presagios
+- [ ] Ver dos charlas de las que tengo pendientes
+
 ## Objetivos cumplidos de 2017
 - Aprender Angular 2/4: Me hice un curso en Udemy que abarcaba Typescript, Angular 2 y Angular 4. Además trabajé en varios proyectos tanto personales como laborables con esta nueva versión del Framework
 - Instalar RetroPi en la Raspberry: Para obligarme a darle un poco de caña a la Rasp, me instalé el RetroPi. Es un poco chorra, pero así no voy perdiendo lo poco (poquísimo) que he cogido
+- Iniciación a PostCSS: Utilicé como base la charla que dio Naiara Abaroa y apoyándome en diferentes recursos como en [PostCSS.parts](https://www.postcss.parts/)
 - Iniciación en SVG: He realizado varios cursos tanto en Udemy como en Domestika. Además me compré (y me estoy leyendo) el libro de Sarah Drasner de [SVG Animations](http://shop.oreilly.com/product/0636920045335.do)
 - Inicación a UX: Gracias a una compañera a la que he acogido como mi mentora, me va recomendando libros, artículos, aplicaciones sobre experiencia de usuario. De momento me he leído este 2017 el ["Don't make me think"](https://www.amazon.es/Dont-Think-Revisited-Voices-Matter/dp/0321965515/ref=sr_1_1?ie=UTF8&qid=1514295977&sr=8-1&keywords=dont+make+me+think) de Steve Krug
 
@@ -22,7 +30,8 @@ Este repo está basado en el proyecto personal de [cristinafsanz](https://github
 - [x] Iniciarme en PostCSS
 - [x] Instalar RetroPi en la Raspberry y meterle algunos juegos
 
-## Charlas para ver (No en este orden)
+## Charlas para ver*
+* No necesariamente en este orden
 - [ ] [Complex Responsive Animations with Sarah Drasner ](https://www.youtube.com/watch?v=BTyKwxf60s4&t=4s)
 - [ ] [SVG can do that?! (Sarah Drasner) ](https://www.youtube.com/watch?v=ADXX4fmWHbo)
 - [ ] [Sarah Drasner: Intricate SVG Animations](https://www.youtube.com/watch?v=wc8ovZZ78SY)
@@ -35,6 +44,10 @@ Este repo está basado en el proyecto personal de [cristinafsanz](https://github
 - [ ] [Verou - JS UX: Writing code for humans](https://www.youtube.com/watch?v=gweY3L0YA1Y&t=53s)
 - [ ] [Lea Verou: The Missing Slice](https://www.youtube.com/watch?v=eVnUDTtOLE0)
 - [ ] [Lea Verou, "More CSS Secrets: Another 10 things you may not know about CSS"](https://www.youtube.com/watch?v=3ikye7Qc7Ak)
+
+## Cursos
+- [ ] (En proceso...) [Gráficos vectoriales SVG: ilustrar y animar con código](https://www.domestika.org/es/courses/169-graficos-vectoriales-svg-ilustrar-y-animar-con-codigo/course)
+- [ ] (En proceso...) [Modern React with Redux](https://www.udemy.com/react-redux/)
 
 ## Música
 #### Conciertos
