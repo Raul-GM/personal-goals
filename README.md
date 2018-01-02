@@ -9,6 +9,7 @@ Este repo está basado en el proyecto personal de [cristinafsanz](https://github
 - [ ] Acabar la web de conciertos
 - [ ] Pasar mi web a Github Pages (Echar un ojo a la documentación de Cristina sobre Github Pages)
 - [ ] Aprender y practicar más con SVG. Darle caña a mi Codepen
+- [ ] Hacer un chatbot sencillo
 
 ## Tareas para Enero 2018
 - [ ] Acabar el proyecto final del curso de SVG
