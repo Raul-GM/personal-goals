@@ -34,7 +34,7 @@ Este repo está basado en el proyecto personal de [cristinafsanz](https://github
 - [ ] (En proceso...) [Gráficos vectoriales SVG: ilustrar y animar con código](https://www.domestika.org/es/courses/169-graficos-vectoriales-svg-ilustrar-y-animar-con-codigo/course)
 - [ ] (En proceso...) [Modern React with Redux](https://www.udemy.com/react-redux/)
 
-## Charlas para ver
+## Charlas para ver (No necesariamente en este orden)
 - [ ] [Complex Responsive Animations with Sarah Drasner ](https://www.youtube.com/watch?v=BTyKwxf60s4&t=4s)
 - [ ] [SVG can do that?! (Sarah Drasner) ](https://www.youtube.com/watch?v=ADXX4fmWHbo)
 - [ ] [Sarah Drasner: Intricate SVG Animations](https://www.youtube.com/watch?v=wc8ovZZ78SY)
