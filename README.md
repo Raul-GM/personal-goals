@@ -30,7 +30,11 @@ Este repo está basado en el proyecto personal de [cristinafsanz](https://github
 - [x] Iniciarme en PostCSS
 - [x] Instalar RetroPi en la Raspberry y meterle algunos juegos
 
-## Charlas para ver
+## Cursos
+- [ ] (En proceso...) [Gráficos vectoriales SVG: ilustrar y animar con código](https://www.domestika.org/es/courses/169-graficos-vectoriales-svg-ilustrar-y-animar-con-codigo/course)
+- [ ] (En proceso...) [Modern React with Redux](https://www.udemy.com/react-redux/)
+
+## Charlas para ver
 - [ ] [Complex Responsive Animations with Sarah Drasner ](https://www.youtube.com/watch?v=BTyKwxf60s4&t=4s)
 - [ ] [SVG can do that?! (Sarah Drasner) ](https://www.youtube.com/watch?v=ADXX4fmWHbo)
 - [ ] [Sarah Drasner: Intricate SVG Animations](https://www.youtube.com/watch?v=wc8ovZZ78SY)
@@ -43,10 +47,6 @@ Este repo está basado en el proyecto personal de [cristinafsanz](https://github
 - [ ] [Verou - JS UX: Writing code for humans](https://www.youtube.com/watch?v=gweY3L0YA1Y&t=53s)
 - [ ] [Lea Verou: The Missing Slice](https://www.youtube.com/watch?v=eVnUDTtOLE0)
 - [ ] [Lea Verou, "More CSS Secrets: Another 10 things you may not know about CSS"](https://www.youtube.com/watch?v=3ikye7Qc7Ak)
-
-## Cursos
-- [ ] (En proceso...) [Gráficos vectoriales SVG: ilustrar y animar con código](https://www.domestika.org/es/courses/169-graficos-vectoriales-svg-ilustrar-y-animar-con-codigo/course)
-- [ ] (En proceso...) [Modern React with Redux](https://www.udemy.com/react-redux/)
 
 ## Música
 #### Conciertos
@@ -64,7 +64,7 @@ Este repo está basado en el proyecto personal de [cristinafsanz](https://github
 - (Leyendo...) [Buenos Presagios]() - Terry Pratchett y Neil Gaiman
 - (Leyendo...) [SVG Animations](http://shop.oreilly.com/product/0636920045335.do) - Sarah Drasner
 - (Leyendo...) [CSS Secrets](http://shop.oreilly.com/product/0636920031123.do) - Lea Verou
-- ["Don't make me think"](https://www.amazon.es/Dont-Think-Revisited-Voices-Matter/dp/0321965515/ref=sr_1_1?ie=UTF8&qid=1514295977&sr=8-1&keywords=dont+make+me+think)  - Steve Krug
+- [Don't make me think](https://www.amazon.es/Dont-Think-Revisited-Voices-Matter/dp/0321965515/ref=sr_1_1?ie=UTF8&qid=1514295977&sr=8-1&keywords=dont+make+me+think)  - Steve Krug
 - [La Torre Oscura I - El pistolero](https://www.amazon.es/pistolero-BEST-SELLER-Stephen-King/dp/8466338500/ref=sr_1_2?ie=UTF8&qid=1514297496&sr=8-2&keywords=libros+la+torre+oscura) - Stephen King
 - [La Torre Oscura II - La Llegada de los Tres](https://www.amazon.es/llegada-tres-Torre-Oscura-SELLER/dp/8466340580/ref=sr_1_1?ie=UTF8&qid=1514297496&sr=8-1&keywords=libros+la+torre+oscura) - Stephen King
 - [El Asedio](https://www.casadellibro.com/libro-el-asedio/9788420405551/1653255) - Arturo Pérez-Reverte
