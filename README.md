@@ -30,8 +30,7 @@ Este repo está basado en el proyecto personal de [cristinafsanz](https://github
 - [x] Iniciarme en PostCSS
 - [x] Instalar RetroPi en la Raspberry y meterle algunos juegos
 
-## Charlas para ver*
-* No necesariamente en este orden
+## Charlas para ver
 - [ ] [Complex Responsive Animations with Sarah Drasner ](https://www.youtube.com/watch?v=BTyKwxf60s4&t=4s)
 - [ ] [SVG can do that?! (Sarah Drasner) ](https://www.youtube.com/watch?v=ADXX4fmWHbo)
 - [ ] [Sarah Drasner: Intricate SVG Animations](https://www.youtube.com/watch?v=wc8ovZZ78SY)
@@ -68,6 +67,7 @@ Este repo está basado en el proyecto personal de [cristinafsanz](https://github
 - ["Don't make me think"](https://www.amazon.es/Dont-Think-Revisited-Voices-Matter/dp/0321965515/ref=sr_1_1?ie=UTF8&qid=1514295977&sr=8-1&keywords=dont+make+me+think)  - Steve Krug
 - [La Torre Oscura I - El pistolero](https://www.amazon.es/pistolero-BEST-SELLER-Stephen-King/dp/8466338500/ref=sr_1_2?ie=UTF8&qid=1514297496&sr=8-2&keywords=libros+la+torre+oscura) - Stephen King
 - [La Torre Oscura II - La Llegada de los Tres](https://www.amazon.es/llegada-tres-Torre-Oscura-SELLER/dp/8466340580/ref=sr_1_1?ie=UTF8&qid=1514297496&sr=8-1&keywords=libros+la+torre+oscura) - Stephen King
+- [El Asedio](https://www.casadellibro.com/libro-el-asedio/9788420405551/1653255) - Arturo Pérez-Reverte
 - [Harry Potter and the Philosopher's Stone. Ravenclaw XX Anniversary Edition](https://harrypotter.bloomsbury.com/uk/harry-potter-and-the-philosophers-stone-ravenclaw-9781408883785/?ewid=1614) - J.K. Rowling
 #### Backlog
 - El Segador - Terry Pratchett
