@@ -22,6 +22,7 @@ Este repo está basado en el proyecto personal de [cristinafsanz](https://github
 - Aprender Angular 2/4: Me hice un curso en Udemy que abarcaba Typescript, Angular 2 y Angular 4. Además trabajé en varios proyectos tanto personales como laborables con esta nueva versión del Framework
 - Instalar RetroPi en la Raspberry: Para obligarme a darle un poco de caña a la Rasp, me instalé el RetroPi. Es un poco chorra, pero así no voy perdiendo lo poco (poquísimo) que he cogido
 - Iniciación a PostCSS: Utilicé como base la charla que dio Naiara Abaroa y apoyándome en diferentes recursos como en [PostCSS.parts](https://www.postcss.parts/)
+- Aprender CSS Grid: A través de Rachel Andrew y los numerosos recursos que ha aportado a la comunidad he aprendido a usar CSS Grid en varios proyectos personales y laborables
 - Iniciación en SVG: He realizado varios cursos tanto en Udemy como en Domestika. Además me compré (y me estoy leyendo) el libro de Sarah Drasner de [SVG Animations](http://shop.oreilly.com/product/0636920045335.do)
 - Inicación a UX: Gracias a una compañera a la que he acogido como mi mentora, me va recomendando libros, artículos, aplicaciones sobre experiencia de usuario. De momento me he leído este 2017 el ["Don't make me think"](https://www.amazon.es/Dont-Think-Revisited-Voices-Matter/dp/0321965515/ref=sr_1_1?ie=UTF8&qid=1514295977&sr=8-1&keywords=dont+make+me+think) de Steve Krug
 
