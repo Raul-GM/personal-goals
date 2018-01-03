@@ -15,7 +15,7 @@ Este repo está basado en el proyecto personal de [cristinafsanz](https://github
 - [ ] Acabar el proyecto final del curso de SVG
 - [ ] Preparar ideas para RebeldesTIC
 - [ ] Acabar el libro de Sarah Drasner de SVG Animations
-- [ ] Acabar el libro de Buenos Presagios
+- [x] Acabar el libro de Buenos Presagios
 - [ ] Ver dos charlas de las que tengo pendientes
 
 ## Objetivos cumplidos de 2017
@@ -41,8 +41,7 @@ Este repo está basado en el proyecto personal de [cristinafsanz](https://github
 - [ ] [SVG can do that?! (Sarah Drasner) ](https://www.youtube.com/watch?v=ADXX4fmWHbo)
 - [ ] [Sarah Drasner: Intricate SVG Animations](https://www.youtube.com/watch?v=wc8ovZZ78SY)
 - [ ] [Animating the Virtual DOM - Sarah Drasner](https://www.youtube.com/watch?v=W5AdUcJDHo0)
-- [ ] [Sarah Drasner - Animating in React
-24](https://www.youtube.com/watch?v=QlmaI7x7SYo)
+- [ ] [Sarah Drasner - Animating in React](https://www.youtube.com/watch?v=QlmaI7x7SYo)
 - [ ] [Sarah Drasner - Animating Vue](https://www.youtube.com/watch?v=gJDyhmL9O_E)
 - [ ] [Guest Tutorial #2: Web Animations and Mo.js with Sarah Drasner](https://www.youtube.com/watch?v=yRxWa8lXasI)
 - [ ] [Introduction to Vue.js — Sarah Drasner](https://www.youtube.com/watch?v=TGW-z1bIWyg)
@@ -63,9 +62,9 @@ Este repo está basado en el proyecto personal de [cristinafsanz](https://github
 - [ ] Dark Moor - 20 Aniversario - 4 Marzo 2017 - Sala Heineken
 
 ## Libros
-- (Leyendo...) [Buenos Presagios]() - Terry Pratchett y Neil Gaiman
 - (Leyendo...) [SVG Animations](http://shop.oreilly.com/product/0636920045335.do) - Sarah Drasner
 - (Leyendo...) [CSS Secrets](http://shop.oreilly.com/product/0636920031123.do) - Lea Verou
+- [Buenos Presagios](https://www.casadellibro.com/libro-buenos-presagios/9788448040253/1247904) - Terry Pratchett y Neil Gaiman
 - [Don't make me think](https://www.amazon.es/Dont-Think-Revisited-Voices-Matter/dp/0321965515/ref=sr_1_1?ie=UTF8&qid=1514295977&sr=8-1&keywords=dont+make+me+think)  - Steve Krug
 - [La Torre Oscura I - El pistolero](https://www.amazon.es/pistolero-BEST-SELLER-Stephen-King/dp/8466338500/ref=sr_1_2?ie=UTF8&qid=1514297496&sr=8-2&keywords=libros+la+torre+oscura) - Stephen King
 - [La Torre Oscura II - La Llegada de los Tres](https://www.amazon.es/llegada-tres-Torre-Oscura-SELLER/dp/8466340580/ref=sr_1_1?ie=UTF8&qid=1514297496&sr=8-1&keywords=libros+la+torre+oscura) - Stephen King
