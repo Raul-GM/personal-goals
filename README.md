@@ -37,6 +37,7 @@ Este repo está basado en el proyecto personal de [cristinafsanz](https://github
 - [ ] (En proceso...) [Modern React with Redux](https://www.udemy.com/react-redux/)
 
 ## Charlas para ver (No necesariamente en este orden)
+- [ ] [Aprendiendo VueJS: Un ejemplo práctico](https://www.youtube.com/watch?v=7ftXSVWOwcg)
 - [ ] [Complex Responsive Animations with Sarah Drasner ](https://www.youtube.com/watch?v=BTyKwxf60s4&t=4s)
 - [ ] [SVG can do that?! (Sarah Drasner) ](https://www.youtube.com/watch?v=ADXX4fmWHbo)
 - [ ] [Sarah Drasner: Intricate SVG Animations](https://www.youtube.com/watch?v=wc8ovZZ78SY)
