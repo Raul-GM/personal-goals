@@ -35,6 +35,7 @@ Este repo está basado en el proyecto personal de [cristinafsanz](https://github
 ## Cursos
 - [ ] (En proceso...) [Gráficos vectoriales SVG: ilustrar y animar con código](https://www.domestika.org/es/courses/169-graficos-vectoriales-svg-ilustrar-y-animar-con-codigo/course)
 - [ ] (En proceso...) [Modern React with Redux](https://www.udemy.com/react-redux/)
+- [ ] (En proceso...) [JavaScript30](https://javascript30.com/)
 
 ## Charlas para ver (No necesariamente en este orden)
 - [ ] [Aprendiendo VueJS: Un ejemplo práctico](https://www.youtube.com/watch?v=7ftXSVWOwcg)
@@ -65,6 +66,7 @@ Este repo está basado en el proyecto personal de [cristinafsanz](https://github
 ## Libros
 - (Leyendo...) [SVG Animations](http://shop.oreilly.com/product/0636920045335.do) - Sarah Drasner
 - (Leyendo...) [CSS Secrets](http://shop.oreilly.com/product/0636920031123.do) - Lea Verou
+- (Leyendo...) [El Segador](https://www.casadellibro.com/libro-el-segador-mundodisco-11--la-muerte-2--los-magos-3/9788497599931/927764) - Terry Pratchett
 - [Buenos Presagios](https://www.casadellibro.com/libro-buenos-presagios/9788448040253/1247904) - Terry Pratchett y Neil Gaiman
 - [Don't make me think](https://www.amazon.es/Dont-Think-Revisited-Voices-Matter/dp/0321965515/ref=sr_1_1?ie=UTF8&qid=1514295977&sr=8-1&keywords=dont+make+me+think)  - Steve Krug
 - [La Torre Oscura I - El pistolero](https://www.amazon.es/pistolero-BEST-SELLER-Stephen-King/dp/8466338500/ref=sr_1_2?ie=UTF8&qid=1514297496&sr=8-2&keywords=libros+la+torre+oscura) - Stephen King
@@ -72,8 +74,8 @@ Este repo está basado en el proyecto personal de [cristinafsanz](https://github
 - [El Asedio](https://www.casadellibro.com/libro-el-asedio/9788420405551/1653255) - Arturo Pérez-Reverte
 - [Harry Potter and the Philosopher's Stone. Ravenclaw XX Anniversary Edition](https://harrypotter.bloomsbury.com/uk/harry-potter-and-the-philosophers-stone-ravenclaw-9781408883785/?ewid=1614) - J.K. Rowling
 #### Backlog
+- [El Cuarto Jinete: Ecolalia - Víctor Blázquez](http://victorblazquez.es/el-cuarto-jinete-ecolalia/)
 - [Desarrolla aplicaciones con VueJS](https://www.gitbook.com/book/jdonsan/desarrolla-aplicaciones-con-vuejs/details) - José Dongil
-- El Segador - Terry Pratchett
 - Tres Enanos y Pico - Ángel Sanchidrian
 - Patria - Fernando Aramburu
 - Feminismo para principiantes - Nuria Varela
