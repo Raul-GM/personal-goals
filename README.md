@@ -11,6 +11,13 @@ Este repo está basado en el proyecto personal de [cristinafsanz](https://github
 * [ ] Aprender y practicar más con SVG. Darle caña a mi Codepen
 * [ ] Hacer un chatbot sencillo
 
+## Tareas para Febrero 2018
+
+* [ ] Acabar el proyecto final del curso de SVG
+* [ ] Preparar ideas para RebeldesTIC
+* [ ] Ver dos charlas de las que tengo pendientes
+* [ ] FrontFest 2018
+
 ## Tareas para Enero 2018
 
 * [ ] Acabar el proyecto final del curso de SVG
