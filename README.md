@@ -13,10 +13,10 @@ Este repo está basado en el proyecto personal de [cristinafsanz](https://github
 
 ## Tareas para Febrero 2018
 
-* [ ] Acabar el proyecto final del curso de SVG
-* [ ] Preparar ideas para RebeldesTIC
+* [x] Acabar el proyecto final del curso de SVG
+* [x] Preparar ideas para RebeldesTIC
 * [ ] Ver dos charlas de las que tengo pendientes
-* [ ] FrontFest 2018
+* [x] FrontFest 2018
 
 ## Tareas para Enero 2018
 
@@ -44,19 +44,19 @@ Este repo está basado en el proyecto personal de [cristinafsanz](https://github
 
 ## Cursos
 
-* [ ] (En proceso...) [Gráficos vectoriales SVG: ilustrar y animar con código](https://www.domestika.org/es/courses/169-graficos-vectoriales-svg-ilustrar-y-animar-con-codigo/course)
+* [x] [Gráficos vectoriales SVG: ilustrar y animar con código](https://www.domestika.org/es/courses/169-graficos-vectoriales-svg-ilustrar-y-animar-con-codigo/course)
 * [ ] (En proceso...) [Modern React with Redux](https://www.udemy.com/react-redux/)
 * [ ] (En proceso...) [JavaScript30](https://javascript30.com/)
 
 ## Eventos
 
 * [x] [Bilbostock 2018](http://bilbostack.com/) 27 Enero 2018
-* [ ] [FrontFest 2018](https://frontfest.es/) 17 Febrero 2018
+* [x] [FrontFest 2018](https://frontfest.es/) 17 Febrero 2018
 * [ ] [T3chfest 2018](https://t3chfest.uc3m.es/2018/) 1 y 2 Marzo 2018
 
 ## Charlas para ver (No necesariamente en este orden)
 
-* [ ] [Aprendiendo VueJS: Un ejemplo práctico](https://www.youtube.com/watch?v=7ftXSVWOwcg)
+* [x] [Aprendiendo VueJS: Un ejemplo práctico](https://www.youtube.com/watch?v=7ftXSVWOwcg)
 * [ ] [Complex Responsive Animations with Sarah Drasner ](https://www.youtube.com/watch?v=BTyKwxf60s4&t=4s)
 * [x] [SVG can do that?! (Sarah Drasner) ](https://www.youtube.com/watch?v=ADXX4fmWHbo)
 * [ ] [Sarah Drasner: Intricate SVG Animations](https://www.youtube.com/watch?v=wc8ovZZ78SY)
@@ -91,8 +91,9 @@ Este repo está basado en el proyecto personal de [cristinafsanz](https://github
 
 ## Libros
 
+* (Leyendo...) [El Cuarto Jinete: Ecolalia - Víctor Blázquez](http://victorblazquez.es/el-cuarto-jinete-ecolalia/)
 * (Leyendo...) [CSS Secrets](http://shop.oreilly.com/product/0636920031123.do) - Lea Verou
-* (Leyendo...) [El Segador](https://www.casadellibro.com/libro-el-segador-mundodisco-11--la-muerte-2--los-magos-3/9788497599931/927764) - Terry Pratchett
+* [El Segador](https://www.casadellibro.com/libro-el-segador-mundodisco-11--la-muerte-2--los-magos-3/9788497599931/927764) - Terry Pratchett
 * [SVG Animations](http://shop.oreilly.com/product/0636920045335.do) - Sarah Drasner
 * [Buenos Presagios](https://www.casadellibro.com/libro-buenos-presagios/9788448040253/1247904) - Terry Pratchett y Neil Gaiman
 * [Don't make me think](https://www.amazon.es/Dont-Think-Revisited-Voices-Matter/dp/0321965515/ref=sr_1_1?ie=UTF8&qid=1514295977&sr=8-1&keywords=dont+make+me+think) - Steve Krug
@@ -103,7 +104,6 @@ Este repo está basado en el proyecto personal de [cristinafsanz](https://github
 
 #### Backlog
 
-* [El Cuarto Jinete: Ecolalia - Víctor Blázquez](http://victorblazquez.es/el-cuarto-jinete-ecolalia/)
 * [Desarrolla aplicaciones con VueJS](https://www.gitbook.com/book/jdonsan/desarrolla-aplicaciones-con-vuejs/details) - José Dongil
 * Tres Enanos y Pico - Ángel Sanchidrian
 * Patria - Fernando Aramburu
