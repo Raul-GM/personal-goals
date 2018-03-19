@@ -11,11 +11,17 @@ Este repo está basado en el proyecto personal de [cristinafsanz](https://github
 * [ ] Aprender y practicar más con SVG. Darle caña a mi Codepen
 * [ ] Hacer un chatbot sencillo
 
+## Tareas para Marzo 2018
+
+* [ ] Terminar detalle de mi web de conciertos
+* [x] Ver dos charlas de las que tengo pendientes
+* [x] Ver las charlas de T3chFest 2018
+
 ## Tareas para Febrero 2018
 
 * [x] Acabar el proyecto final del curso de SVG
 * [x] Preparar ideas para RebeldesTIC
-* [ ] Ver dos charlas de las que tengo pendientes
+* [x] Ver dos charlas de las que tengo pendientes
 * [x] FrontFest 2018
 
 ## Tareas para Enero 2018
@@ -91,8 +97,9 @@ Este repo está basado en el proyecto personal de [cristinafsanz](https://github
 
 ## Libros
 
-* (Leyendo...) [El Cuarto Jinete: Ecolalia - Víctor Blázquez](http://victorblazquez.es/el-cuarto-jinete-ecolalia/)
+* (Leyendo...) [Tres Enanos y Pico - Ángel Sanchidrian
 * (Leyendo...) [CSS Secrets](http://shop.oreilly.com/product/0636920031123.do) - Lea Verou
+* [El Cuarto Jinete: Ecolalia - Víctor Blázquez](http://victorblazquez.es/el-cuarto-jinete-ecolalia/)
 * [El Segador](https://www.casadellibro.com/libro-el-segador-mundodisco-11--la-muerte-2--los-magos-3/9788497599931/927764) - Terry Pratchett
 * [SVG Animations](http://shop.oreilly.com/product/0636920045335.do) - Sarah Drasner
 * [Buenos Presagios](https://www.casadellibro.com/libro-buenos-presagios/9788448040253/1247904) - Terry Pratchett y Neil Gaiman
