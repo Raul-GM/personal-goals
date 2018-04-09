@@ -108,7 +108,7 @@ Este repo está basado en el proyecto personal de [cristinafsanz](https://github
 * (Leyendo...) [La quinta estación](https://www.casadellibro.com/libro-la-quinta-estacion-trilogia-de-la-tierra-fragmentada-i/9788466661690/5303471) - N.K. Jemisin
 * (Leyendo...) [Desarrolla aplicaciones con VueJS](https://www.gitbook.com/book/jdonsan/desarrolla-aplicaciones-con-vuejs/details) - José Dongil
 * (Leyendo...) [CSS Secrets](http://shop.oreilly.com/product/0636920031123.do) - Lea Verou
-* Morder la Manzana - Leticia Dolera [https://www.casadellibro.com/libro-morder-la-manzana-la-revolucion-sera-feminista-o-no-sera/9788408182627/6214299?gclid=cjwkcajw-6bwbrbieiwa_k1zdbf_sv48t5l0jpmn0r5ppznwe1ld4p7pkcvknzndq0g3igm01w0khhocpacqavd_bwe&utm_source=google&utm_medium=cpc&utm_campaign=93]
+* [Morder la Manzana](https://www.casadellibro.com/libro-morder-la-manzana-la-revolucion-sera-feminista-o-no-sera/9788408182627/6214299?gclid=cjwkcajw-6bwbrbieiwa_k1zdbf_sv48t5l0jpmn0r5ppznwe1ld4p7pkcvknzndq0g3igm01w0khhocpacqavd_bwe&utm_source=google&utm_medium=cpc&utm_campaign=93) - Leticia Dolera
 * Tres Enanos y Pico - Ángel Sanchidrian
 * [El Cuarto Jinete: Ecolalia - Víctor Blázquez](http://victorblazquez.es/el-cuarto-jinete-ecolalia/)
 * [El Segador](https://www.casadellibro.com/libro-el-segador-mundodisco-11--la-muerte-2--los-magos-3/9788497599931/927764) - Terry Pratchett
