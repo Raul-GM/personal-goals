@@ -11,10 +11,19 @@ Este repo está basado en el proyecto personal de [cristinafsanz](https://github
 * [ ] Aprender y practicar más con SVG. Darle caña a mi Codepen
 * [ ] Hacer un chatbot sencillo
 
+## Tareas para Mayo 2018
+
+* [ ] Terminar admin de mi web de conciertos
+* [ ] Empezar curso para dibujar
+
+## Tareas para Mayo 2018
+
+* [x] Terminar detalle de mi web de conciertos
+
 ## Tareas para Abril 2018
 
 * [ ] Terminar detalle de mi web de conciertos
-* [ ] Women Tech Makers Madrid
+* [x] Women Tech Makers Madrid
 
 ## Tareas para Marzo 2018
 
@@ -64,7 +73,7 @@ Este repo está basado en el proyecto personal de [cristinafsanz](https://github
 * [x] [Bilbostock 2018](http://bilbostack.com/) 27 Enero 2018
 * [x] [FrontFest 2018](https://frontfest.es/) 17 Febrero 2018
 * [ ] [T3chfest 2018](https://t3chfest.uc3m.es/2018/) 1 y 2 Marzo 2018
-* [ ] [Women Tech Makers Madrid]() 21 de Abril 2018
+* [x] [Women Tech Makers Madrid]() 21 de Abril 2018
 
 ## Charlas para ver (No necesariamente en este orden)
 
@@ -93,7 +102,7 @@ Este repo está basado en el proyecto personal de [cristinafsanz](https://github
 
 * [ ] Halestorm - 25 Octubre 2018 - Sala But
 * [ ] Kamelot + Leaves' Eyes + Opera Magna - 5 Octubre 2018 - Sala La Riviera
-* [ ] Ensiferum + Ex Deo - 23 Abril 2018 - Sala Mon
+* [x] Ensiferum + Ex Deo - 23 Abril 2018 - Sala Mon
 * [x] Rhapsody + Beast in Black + Scarlet Aura - 20 Marzo 2018 - La Riviera
 * [x] Arch Enemy + Jinjer + Tribulation + Wintersun - 20 Enero 2018 - La Riviera
 * [x] Helloween - Pumpkins United - 9 Diciembre 2017 - Wizink Center
@@ -105,9 +114,10 @@ Este repo está basado en el proyecto personal de [cristinafsanz](https://github
 
 ## Libros
 
-* (Leyendo...) [La quinta estación](https://www.casadellibro.com/libro-la-quinta-estacion-trilogia-de-la-tierra-fragmentada-i/9788466661690/5303471) - N.K. Jemisin
+* (Leyendo...) [Patria](https://www.casadellibro.com/libro-patria/9788490663196/3033439) - Fernando Aramburu
 * (Leyendo...) [Desarrolla aplicaciones con VueJS](https://www.gitbook.com/book/jdonsan/desarrolla-aplicaciones-con-vuejs/details) - José Dongil
 * (Leyendo...) [CSS Secrets](http://shop.oreilly.com/product/0636920031123.do) - Lea Verou
+* [La quinta estación](https://www.casadellibro.com/libro-la-quinta-estacion-trilogia-de-la-tierra-fragmentada-i/9788466661690/5303471) - N.K. Jemisin
 * [Morder la Manzana](https://www.casadellibro.com/libro-morder-la-manzana-la-revolucion-sera-feminista-o-no-sera/9788408182627/6214299?gclid=cjwkcajw-6bwbrbieiwa_k1zdbf_sv48t5l0jpmn0r5ppznwe1ld4p7pkcvknzndq0g3igm01w0khhocpacqavd_bwe&utm_source=google&utm_medium=cpc&utm_campaign=93) - Leticia Dolera
 * Tres Enanos y Pico - Ángel Sanchidrian
 * [El Cuarto Jinete: Ecolalia - Víctor Blázquez](http://victorblazquez.es/el-cuarto-jinete-ecolalia/)
@@ -123,6 +133,5 @@ Este repo está basado en el proyecto personal de [cristinafsanz](https://github
 #### Backlog
 
 * [Desarrolla aplicaciones con VueJS](https://www.gitbook.com/book/jdonsan/desarrolla-aplicaciones-con-vuejs/details) - José Dongil
-* Patria - Fernando Aramburu
 * Feminismo para principiantes - Nuria Varela
 * Falcó - Arturo Perez-Reverte
