@@ -14,7 +14,12 @@ Este repo está basado en el proyecto personal de [cristinafsanz](https://github
 ## Tareas para Junio 2018
 
 * [ ] Terminar admin de mi web de conciertos
-* [ ] Empezar curso para dibujar
+* [ ] Avanzar con el curso para dibujar
+
+## Tareas para Junio 2018
+
+* [ ] Terminar admin de mi web de conciertos
+* [x] Empezar curso para dibujar
 
 ## Tareas para Mayo 2018
 
@@ -94,14 +99,13 @@ Este repo está basado en el proyecto personal de [cristinafsanz](https://github
 
 #### 2018
 
-* Tribulation - Down Below
-* The Poodles - Prisma
-* Leave's Eyes - Sign of the Dragonhead
-
 #### Conciertos
 
+* [ ] Avantasia - 26 Abril 2019 - Palacio Vistalegre
+* [ ] Amorphis + Soilwork + Jinjer + Nailed to Obscurity - 8 Febrero 2019 - Sala Mon
 * [ ] Halestorm - 25 Octubre 2018 - Sala But
 * [ ] Kamelot + Leaves' Eyes + Opera Magna - 5 Octubre 2018 - Sala La Riviera
+* [ ] Jinjer - 11 agosto 2018 - CC. Delicias (Zaragoza)
 * [x] Ensiferum + Ex Deo - 23 Abril 2018 - Sala Mon
 * [x] Rhapsody + Beast in Black + Scarlet Aura - 20 Marzo 2018 - La Riviera
 * [x] Arch Enemy + Jinjer + Tribulation + Wintersun - 20 Enero 2018 - La Riviera
@@ -114,9 +118,10 @@ Este repo está basado en el proyecto personal de [cristinafsanz](https://github
 
 ## Libros
 
-* (Leyendo...) [Patria](https://www.casadellibro.com/libro-patria/9788490663196/3033439) - Fernando Aramburu
 * (Leyendo...) [Desarrolla aplicaciones con VueJS](https://www.gitbook.com/book/jdonsan/desarrolla-aplicaciones-con-vuejs/details) - José Dongil
 * (Leyendo...) [CSS Secrets](http://shop.oreilly.com/product/0636920031123.do) - Lea Verou
+* [Patria](https://www.casadellibro.com/libro-patria/9788490663196/3033439) - Fernando Aramburu
+* [Aniquilación](https://www.fnac.es/a988791/Jeff-VanderMeer-Aniquilacion?omnsearchpos=1) - Jeff VanderMeer
 * [La quinta estación](https://www.casadellibro.com/libro-la-quinta-estacion-trilogia-de-la-tierra-fragmentada-i/9788466661690/5303471) - N.K. Jemisin
 * [Morder la Manzana](https://www.casadellibro.com/libro-morder-la-manzana-la-revolucion-sera-feminista-o-no-sera/9788408182627/6214299?gclid=cjwkcajw-6bwbrbieiwa_k1zdbf_sv48t5l0jpmn0r5ppznwe1ld4p7pkcvknzndq0g3igm01w0khhocpacqavd_bwe&utm_source=google&utm_medium=cpc&utm_campaign=93) - Leticia Dolera
 * Tres Enanos y Pico - Ángel Sanchidrian
@@ -132,6 +137,5 @@ Este repo está basado en el proyecto personal de [cristinafsanz](https://github
 
 #### Backlog
 
-* [Desarrolla aplicaciones con VueJS](https://www.gitbook.com/book/jdonsan/desarrolla-aplicaciones-con-vuejs/details) - José Dongil
 * Feminismo para principiantes - Nuria Varela
 * Falcó - Arturo Perez-Reverte
