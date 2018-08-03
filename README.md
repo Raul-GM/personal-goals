@@ -6,15 +6,21 @@ Este repo está basado en el proyecto personal de [cristinafsanz](https://github
 
 * [ ] Aprender VueJS
 * [ ] Afianzar conocimientos de React y Redux
-* [ ] Acabar la web de conciertos
+* [x] Acabar la web de conciertos
 * [ ] Pasar mi web a Github Pages (Echar un ojo a la documentación de Cristina sobre Github Pages)
 * [ ] Aprender y practicar más con SVG. Darle caña a mi Codepen
-* [ ] Hacer un chatbot sencillo
+* [x] Hacer un chatbot sencillo
+
+## Tareas para Agosto 2018
+
+* [ ] Darle caña a VueJS
+* [ ] Avanzar con el curso para dibujar
 
 ## Tareas para Julio 2018
 
-* [ ] Terminar admin de mi web de conciertos
-* [ ] Avanzar con el curso para dibujar
+* [x] Terminar admin de mi web de conciertos
+* [x] Avanzar con el curso para dibujar
+* [x] Crear un chatbot sencillo
 
 ## Tareas para Junio 2018
 
@@ -120,8 +126,9 @@ Este repo está basado en el proyecto personal de [cristinafsanz](https://github
 
 * (Leyendo...) [Desarrolla aplicaciones con VueJS](https://www.gitbook.com/book/jdonsan/desarrolla-aplicaciones-con-vuejs/details) - José Dongil
 * (Leyendo...) [CSS Secrets](http://shop.oreilly.com/product/0636920031123.do) - Lea Verou
-* [Patria](https://www.casadellibro.com/libro-patria/9788490663196/3033439) - Fernando Aramburu
+* (Leyendo...) [American Gods](https://www.fnac.es/a834779/Neil-Gaiman-American-gods) - Neil Gaiman
 * [Aniquilación](https://www.fnac.es/a988791/Jeff-VanderMeer-Aniquilacion?omnsearchpos=1) - Jeff VanderMeer
+* [Patria](https://www.casadellibro.com/libro-patria/9788490663196/3033439) - Fernando Aramburu
 * [La quinta estación](https://www.casadellibro.com/libro-la-quinta-estacion-trilogia-de-la-tierra-fragmentada-i/9788466661690/5303471) - N.K. Jemisin
 * [Morder la Manzana](https://www.casadellibro.com/libro-morder-la-manzana-la-revolucion-sera-feminista-o-no-sera/9788408182627/6214299?gclid=cjwkcajw-6bwbrbieiwa_k1zdbf_sv48t5l0jpmn0r5ppznwe1ld4p7pkcvknzndq0g3igm01w0khhocpacqavd_bwe&utm_source=google&utm_medium=cpc&utm_campaign=93) - Leticia Dolera
 * Tres Enanos y Pico - Ángel Sanchidrian
@@ -138,4 +145,11 @@ Este repo está basado en el proyecto personal de [cristinafsanz](https://github
 #### Backlog
 
 * Feminismo para principiantes - Nuria Varela
-* Falcó - Arturo Perez-Reverte
+* Harry Potter and the Chamber of Secrets. Griffindor XX Anniversary Edition - J.K. Rowling
+* [History of Heavy Metal](https://www.amazon.es/History-Heavy-Metal-Andrew-ONeill/dp/1472241444) - Andrew O'Neill
+* Las estrellas son legión - Hurley Cameron
+* El problema de los tres cuerpos - Liu Cixin
+* El portal de los obeliscos - N.K. Jemisin
+* Autoridad - Jeff VanderMeer
+* La Torre Oscura III: Las Tierras Baldías - Stephen King
+* Teoría King Kong - Virginie Despentes
