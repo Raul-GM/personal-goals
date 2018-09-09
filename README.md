@@ -11,10 +11,15 @@ Este repo está basado en el proyecto personal de [cristinafsanz](https://github
 * [ ] Aprender y practicar más con SVG. Darle caña a mi Codepen
 * [x] Hacer un chatbot sencillo
 
+## Tareas para Septiembre 2018
+
+* [ ] Seguimos con VueJS
+* [ ] Avanzar con el curso para dibujar
+
 ## Tareas para Agosto 2018
 
-* [ ] Darle caña a VueJS
-* [ ] Avanzar con el curso para dibujar
+* [x] Darle caña a VueJS
+* [x] Avanzar con el curso para dibujar
 
 ## Tareas para Julio 2018
 
@@ -109,7 +114,9 @@ Este repo está basado en el proyecto personal de [cristinafsanz](https://github
 
 * [ ] Avantasia - 26 Abril 2019 - Palacio Vistalegre
 * [ ] Amorphis + Soilwork + Jinjer + Nailed to Obscurity - 8 Febrero 2019 - Sala Mon
+* [ ] Nightwish + Beast In Black - 20 Noviembre 2018 - WiZink Center
 * [ ] Halestorm - 25 Octubre 2018 - Sala But
+* [ ] Kobra And The Lotus + Butcher Babies - 7 Octubre 2018 - Sala Caracol
 * [ ] Kamelot + Leaves' Eyes + Opera Magna - 5 Octubre 2018 - Sala La Riviera
 * [ ] Jinjer - 11 agosto 2018 - CC. Delicias (Zaragoza)
 * [x] Ensiferum + Ex Deo - 23 Abril 2018 - Sala Mon
@@ -126,7 +133,9 @@ Este repo está basado en el proyecto personal de [cristinafsanz](https://github
 
 * (Leyendo...) [Desarrolla aplicaciones con VueJS](https://www.gitbook.com/book/jdonsan/desarrolla-aplicaciones-con-vuejs/details) - José Dongil
 * (Leyendo...) [CSS Secrets](http://shop.oreilly.com/product/0636920031123.do) - Lea Verou
-* (Leyendo...) [American Gods](https://www.fnac.es/a834779/Neil-Gaiman-American-gods) - Neil Gaiman
+* (Leyendo...) [Feminismo para principiantes](https://www.fnac.es/a1435052/Nuria-Varela-Feminismo-para-principiantes) - Nuria Varela
+* [Fragmentos](https://www.verkami.com/projects/20078-fragmentos) - Víctor Blazquez
+* [American Gods](https://www.fnac.es/a834779/Neil-Gaiman-American-gods) - Neil Gaiman
 * [Aniquilación](https://www.fnac.es/a988791/Jeff-VanderMeer-Aniquilacion?omnsearchpos=1) - Jeff VanderMeer
 * [Patria](https://www.casadellibro.com/libro-patria/9788490663196/3033439) - Fernando Aramburu
 * [La quinta estación](https://www.casadellibro.com/libro-la-quinta-estacion-trilogia-de-la-tierra-fragmentada-i/9788466661690/5303471) - N.K. Jemisin
@@ -144,7 +153,6 @@ Este repo está basado en el proyecto personal de [cristinafsanz](https://github
 
 #### Backlog
 
-* Feminismo para principiantes - Nuria Varela
 * Harry Potter and the Chamber of Secrets. Griffindor XX Anniversary Edition - J.K. Rowling
 * [History of Heavy Metal](https://www.amazon.es/History-Heavy-Metal-Andrew-ONeill/dp/1472241444) - Andrew O'Neill
 * Las estrellas son legión - Hurley Cameron
