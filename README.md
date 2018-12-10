@@ -13,7 +13,12 @@ Este repo está basado en el proyecto personal de [cristinafsanz](https://github
 
 ## Tareas para Noviembre 2018
 
-- [ ] Darle caña a VueJS. Realizando una aplicación tipo wishlist con Firebase
+- [ ] Darle caña a VueJS. Terminar la aplicación tipo wishlist con Firebase
+- [ ] Avanzar con el curso para dibujar. Retrato
+
+## Tareas para Noviembre 2018
+
+- [x] Darle caña a VueJS. Realizando una aplicación tipo wishlist con Firebase
 - [ ] Avanzar con el curso para dibujar. Retrato
 
 ## Tareas para Octubre 2018
@@ -123,10 +128,11 @@ Este repo está basado en el proyecto personal de [cristinafsanz](https://github
 #### Conciertos
 
 - [ ] Avantasia - 26 Abril 2019 - Palacio Vistalegre
+- [ ] Battle Beast + Arion - 20 Abril 2019 - Sala But
 - [ ] Amorphis + Soilwork + Jinjer + Nailed to Obscurity - 8 Febrero 2019 - Sala Mon
 - [ ] Dark Moor - 1 Febrero 2019 - Sala Cool Stage
 - [ ] Powerwolf + Amaranthe + Kissin' Dynamite - 13 Enero 2019 - Sala La Riviera
-- [ ] Nightwish + Beast In Black - 20 Noviembre 2018 - WiZink Center
+- [x] Nightwish + Beast In Black - 20 Noviembre 2018 - WiZink Center
 - [x] Halestorm - 25 Octubre 2018 - Palacio de Vistalegre
 - [ ] Kobra And The Lotus + Butcher Babies - 7 Octubre 2018 - Sala Caracol
 - [x] Kamelot + Leaves' Eyes + Opera Magna - 5 Octubre 2018 - Sala La Riviera
@@ -144,7 +150,8 @@ Este repo está basado en el proyecto personal de [cristinafsanz](https://github
 ## Libros
 
 - (Leyendo...) [CSS Secrets](http://shop.oreilly.com/product/0636920031123.do) - Lea Verou
-- (Leyendo...) [Todo esto te daré](https://www.casadellibro.com/libro-todo-esto-te-dare-premio-planeta-2016/9788408163176/4552863) - Dolores Redondo
+- (Leyendo...) [La princesa de hielo](https://www.casadellibro.com/libro-la-princesa-de-hielo-serie-fjllbacka-1/9788496748163/1136073) - Camilla Lackberg
+- [Todo esto te daré](https://www.casadellibro.com/libro-todo-esto-te-dare-premio-planeta-2016/9788408163176/4552863) - Dolores Redondo
 - [Harry Potter and the Chamber of Secrets. Griffindor XX Anniversary Edition](https://harrypotter.bloomsbury.com/uk/harry-potter-and-the-chamber-of-secrets-gryffindor-9781408898109/?ewid=2265) - J.K. Rowling
 - [Desarrolla aplicaciones con VueJS](https://www.gitbook.com/book/jdonsan/desarrolla-aplicaciones-con-vuejs/details) - José Dongil
 - [Feminismo para principiantes](https://www.fnac.es/a1435052/Nuria-Varela-Feminismo-para-principiantes) - Nuria Varela
